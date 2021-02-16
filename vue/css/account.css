@@ -1,0 +1,31 @@
+.content {
+  display: flex;
+  justify-content: center;
+	align-items: center;
+}
+
+.error {
+  color: #FFA69E;
+}
+
+.account {
+  width: 300px;
+  padding: 10px;
+  color: #5E6472;
+  border-radius: 10px;
+  background-color: #FAF3DD;
+}
+
+.acccount-form form {
+  display: flex;
+  flex-direction: column;
+}
+
+hr {
+  margin: 10px 0px 10px 0px;
+}
+
+input {
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
